@@ -33,7 +33,7 @@
 ## 💼 Technical Skills
 
 <p  align="left">
-
+<code>
   <img src="images/logo/python.svg" width="50" height="50"  alt="Python"/>
   <img src="images/logo/selene.png" width="50" height="50"  alt="Pytest"/>
   <img src="images/logo/pytest.png" width="50" height="50"  alt="Selene"/>
@@ -50,7 +50,7 @@
   <img src="images/logo/slack.svg" width="50" height="50"  alt="Telegram"/>
   <img src="images/logo/telegram.svg" width="50" height="50"  alt="Github"/>
   <img src="images/logo/postman.png" width="50" height="50"  alt="Telegram"/>
-
+</code>
 </p>
 <br>
 
