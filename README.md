@@ -6,12 +6,11 @@
 
 **About me**
 
-🇺🇦
 
-:ukraine:
 - 💼 I have over 4 years of manual testing experience
 - 📋 I have completed a course on test automation from QAGuru( Python + selene)
 - ⚡ I want to develop in the direction of automation testing.
+<br>
 
 
 ### 🤝 Connect with me:
@@ -24,34 +23,36 @@
     <img width="6%" src="images/logo/telegram.svg" alt="Telegram"/>
   </a>
 </div>
-
+<br>
 
 ## 🌱 I'm currently learning
 
 - 📌 Python language and automation on it
+<br>
 
 ## 💼 Technical Skills
 
 <p  align="left">
-<code>
-  <img src="images/logo/python.svg" width="40" height="40"  alt="Python"/>
-  <img src="images/logo/selene.png" width="40" height="40"  alt="Pytest"/>
-  <img src="images/logo/pytest.png" width="50" height="40"  alt="Selene"/>
-  <img src="images/logo/pycharm.png" width="40" height="40"  alt="PyCharm"/>
-  <img src="images/logo/request.png" width="50" height="40"  alt="Requests"/>
-  <img src="images/logo/appium.svg" width="40" height="40"  alt="Appium"/>
-  <img src="images/logo/jenkins.png" width="40" height="40"  alt="Jenkins"/>
-  <img src="images/logo/selenoid.png" width="40" height="40"  alt="Selenoid"/>
-  <img src="images/logo/Allure.svg" width="40" height="40"  alt="Allure TestOps"/>
-  <img src="images/logo/GitHub.svg" width="40" height="40"  alt="Jira"/>
-  <img src="images/logo/docker.svg" width="40" height="40"  alt="Github"/>
-  <img src="images/logo/Allure_TO.svg" width="40" height="40"  alt="Telegram"/>
-  <img src="images/logo/browserstack.svg" width="40" height="40"  alt="Github"/>
-  <img src="images/logo/slack.svg" width="40" height="40"  alt="Telegram"/>
-  <img src="images/logo/telegram.svg" width="40" height="40"  alt="Github"/>
-  <img src="images/logo/postman.png" width="40" height="40"  alt="Telegram"/>
-</code>
+
+  <img src="images/logo/python.svg" width="50" height="50"  alt="Python"/>
+  <img src="images/logo/selene.png" width="50" height="50"  alt="Pytest"/>
+  <img src="images/logo/pytest.png" width="50" height="50"  alt="Selene"/>
+  <img src="images/logo/pycharm.png" width="50" height="50"  alt="PyCharm"/>
+  <img src="images/logo/request.png" width="50" height="50"  alt="Requests"/>
+  <img src="images/logo/appium.svg" width="50" height="50"  alt="Appium"/>
+  <img src="images/logo/jenkins.png" width="50" height="50"  alt="Jenkins"/>
+  <img src="images/logo/selenoid.png" width="50" height="50"  alt="Selenoid"/>
+  <img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure TestOps"/>
+  <img src="images/logo/GitHub.svg" width="50" height="50"  alt="Jira"/>
+  <img src="images/logo/docker.svg" width="50" height="50"  alt="Github"/>
+  <img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="Telegram"/>
+  <img src="images/logo/browserstack.svg" width="50" height="50"  alt="Github"/>
+  <img src="images/logo/slack.svg" width="50" height="50"  alt="Telegram"/>
+  <img src="images/logo/telegram.svg" width="50" height="50"  alt="Github"/>
+  <img src="images/logo/postman.png" width="50" height="50"  alt="Telegram"/>
+
 </p>
+<br>
 
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -65,6 +66,7 @@
 ![Header](https://img.shields.io/badge/Android_Studio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+<br>
 
 ## 📈 GitHub Stats 
 
