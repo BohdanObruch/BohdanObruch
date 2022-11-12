@@ -7,13 +7,13 @@
 **About me**
 
 
-- 💼 I have over 4 years of manual testing experience
-- 📋 I have completed a course on test automation from QAGuru( Python + selene)
-- ⚡ I want to develop in the direction of automation testing.
+- 💼 more than 4 years of manual testing experience
+- 📋 did a course on test automation by QAGuru( Python + selene)
+- ⚡ further development in automation testing.
 <br>
 
 
-### 🤝 Connect with me:
+### 🤝 Contact me on:
 
   <div>
   <a href="https://www.linkedin.com/in/bohdan-obruch/">
@@ -25,9 +25,9 @@
 </div>
 <br>
 
-## 🌱 I'm currently learning
+## 🌱 Currently learning
 
-- 📌 Python language and automation on it
+- 📌 Python language and automation in it
 <br>
 
 ## 💼 Technical Skills
