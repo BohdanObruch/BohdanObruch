@@ -32,7 +32,7 @@
 
 ## 💼 Technical Skills
 
-<p  align="center">
+<p  align="left">
 <code>
   <img src="images/logo/python.svg" width="60" height="60"  alt="Python"/>
   <img src="images/logo/selene.png" width="60" height="60"  alt="Selene"/>
@@ -52,6 +52,13 @@
   <img src="images/logo/jira.svg" width="60" height="60"  alt="Jira"/>
   <img src="images/logo/postman.png" width="60" height="60"  alt="Postman"/>
 </code>
+</p>
+<br>
+
+<p  align="center">
+  <code><img width="20%" title="Python" src="images/logo/python.svg"></code>
+  <code><img width="20%" title="Selene" src="images/logo/selene.png"></code>
+  <code><img width="20%" title="Pytest" src="images/logo/pytest.png"></code>
 </p>
 <br>
 
