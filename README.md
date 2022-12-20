@@ -34,23 +34,23 @@
 
 <p  align="left">
 <code>
-  <img src="images/logo/python.svg" width="50" height="50"  alt="Python"/>
-  <img src="images/logo/selene.png" width="50" height="50"  alt="Selene"/>
-  <img src="images/logo/pytest.png" width="50" height="50"  alt="Pytest"/>
-  <img src="images/logo/pycharm.png" width="50" height="50"  alt="PyCharm"/>
-  <img src="images/logo/request.png" width="50" height="50"  alt="Requests"/>
-  <img src="images/logo/appium.svg" width="50" height="50"  alt="Appium"/>
+  <img src="images/logo/python.svg" width="60" height="60"  alt="Python"/>
+  <img src="images/logo/selene.png" width="60" height="60"  alt="Selene"/>
+  <img src="images/logo/pytest.png" width="60" height="60"  alt="Pytest"/>
+  <img src="images/logo/pycharm.png" width="60" height="60"  alt="PyCharm"/>
+  <img src="images/logo/request.png" width="60" height="60"  alt="Requests"/>
+  <img src="images/logo/appium.svg" width="60" height="60"  alt="Appium"/>
   <img src="images/logo/jenkins.png" width="50" height="50"  alt="Jenkins"/>
-  <img src="images/logo/selenoid.png" width="50" height="50"  alt="Selenoid"/>
-  <img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure"/>
-  <img src="images/logo/GitHub.svg" width="50" height="50"  alt="GitHub"/>
-  <img src="images/logo/docker.svg" width="50" height="50"  alt="Docker"/>
-  <img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/>
-  <img src="images/logo/browserstack.svg" width="50" height="50"  alt="Browserstack"/>
-  <img src="images/logo/slack.svg" width="50" height="50"  alt="Slack"/>
-  <img src="images/logo/telegram.svg" width="50" height="50"  alt="Telegram"/>
-  <img src="images/logo/jira.svg" width="50" height="50"  alt="Jira"/>
-  <img src="images/logo/postman.png" width="50" height="50"  alt="Postman"/>
+  <img src="images/logo/selenoid.png" width="60" height="60"  alt="Selenoid"/>
+  <img src="images/logo/Allure.svg" width="60" height="60"  alt="Allure"/>
+  <img src="images/logo/GitHub.svg" width="60" height="60"  alt="GitHub"/>
+  <img src="images/logo/docker.svg" width="60" height="60"  alt="Docker"/>
+  <img src="images/logo/Allure_TO.svg" width="60" height="60"  alt="Allure TestOps"/>
+  <img src="images/logo/browserstack.svg" width="60" height="60"  alt="Browserstack"/>
+  <img src="images/logo/slack.svg" width="60" height="60"  alt="Slack"/>
+  <img src="images/logo/telegram.svg" width="60" height="60"  alt="Telegram"/>
+  <img src="images/logo/jira.svg" width="60" height="60"  alt="Jira"/>
+  <img src="images/logo/postman.png" width="60" height="60"  alt="Postman"/>
 </code>
 </p>
 <br>
