@@ -33,23 +33,23 @@
 ## 💼 Technical Skills
 
 <p  align="center">
-  <code><img width="15%" title="Python" src="images/logo/python.svg"></code>
-  <code><img width="15%" title="Selene" src="images/logo/selene.png"></code>
-  <code><img width="15%" title="Pytest" src="images/logo/pytest.png"></code>
-  <code><img width="15%" title="PyCharm" src="images/logo/pycharm.png"></code>
-  <code><img width="15%" title="Requests" src="images/logo/request.png"></code>
-  <code><img width="15%" title="Appium" src="images/logo/appium.svg"></code>
-  <code><img width="15%" title="Jenkins" src="images/logo/jenkins.png"></code>
-  <code><img width="15%" title="Selenoid" src="images/logo/selenoid.png"></code>
-  <code><img width="15%" title="Allure" src="images/logo/Allure.svg"></code>
-  <code><img width="15%" title="GitHub" src="images/logo/GitHub.svg"></code>
-  <code><img width="15%" title="Docker" src="images/logo/docker.svg"></code>
-  <code><img width="15%" title="Allure TestOps" src="images/logo/Allure_TO.svg"></code>
-  <code><img width="15%" title="Browserstack" src="images/logo/browserstack.svg"></code>
-  <code><img width="15%" title="Slack" src="images/logo/slack.svg"></code>
-  <code><img width="15%" title="Telegram" src="images/logo/telegram.svg"></code>
-  <code><img width="15%" title="Jira" src="images/logo/jira.svg"></code>
-  <code><img width="15%" title="Postman" src="images/logo/postman.png"></code>
+  <code><img width="5%" title="Python" src="images/logo/python.svg"></code>
+  <code><img width="5%" title="Selene" src="images/logo/selene.png"></code>
+  <code><img width="5%" title="Pytest" src="images/logo/pytest.png"></code>
+  <code><img width="5%" title="PyCharm" src="images/logo/pycharm.png"></code>
+  <code><img width="5%" title="Requests" src="images/logo/request.png"></code>
+  <code><img width="5%" title="Appium" src="images/logo/appium.svg"></code>
+  <code><img width="5%" title="Jenkins" src="images/logo/jenkins.png"></code>
+  <code><img width="5%" title="Selenoid" src="images/logo/selenoid.png"></code>
+  <code><img width="5%" title="Allure" src="images/logo/Allure.svg"></code>
+  <code><img width="5%" title="GitHub" src="images/logo/GitHub.svg"></code>
+  <code><img width="5%" title="Docker" src="images/logo/docker.svg"></code>
+  <code><img width="5%" title="Allure TestOps" src="images/logo/Allure_TO.svg"></code>
+  <code><img width="5%" title="Browserstack" src="images/logo/browserstack.svg"></code>
+  <code><img width="5%" title="Slack" src="images/logo/slack.svg"></code>
+  <code><img width="5%" title="Telegram" src="images/logo/telegram.svg"></code>
+  <code><img width="5%" title="Jira" src="images/logo/jira.svg"></code>
+  <code><img width="5%" title="Postman" src="images/logo/postman.png"></code>
 </p>
 <br>
 
