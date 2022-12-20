@@ -32,7 +32,7 @@
 
 ## 💼 Technical Skills
 
-<p  align="left">
+<p  align="center">
 <code>
   <img src="images/logo/python.svg" width="60" height="60"  alt="Python"/>
   <img src="images/logo/selene.png" width="60" height="60"  alt="Selene"/>
