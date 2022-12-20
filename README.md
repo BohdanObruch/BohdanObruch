@@ -74,5 +74,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=BohdanObruch&show_icons=true&theme=radical)
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BohdanObruch&layout=compact&theme=radical&hide_border=false" /></a>
 
-
-
