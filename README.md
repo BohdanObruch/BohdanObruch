@@ -69,6 +69,9 @@
 
 ## 📈 GitHub Stats 
 
-![](https://github-readme-stats.vercel.app/api?username=BohdanObruch&show_icons=true&theme=radical)
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BohdanObruch&layout=compact&theme=radical&hide_border=false" /></a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BohdanObruch&theme=solarized_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BohdanObruch&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BohdanObruch&theme=solarized_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BohdanObruch&layout=compact&theme=vision-friendly-dark)
