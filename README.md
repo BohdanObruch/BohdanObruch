@@ -39,6 +39,8 @@
   <code><img width="7%" title="Selene" src="images/logo/selene.png"></code>
   <code><img width="7%" title="Selenium" src="images/logo/selenium.svg"></code>
   <code><img width="7%" title="Playwright" src="images/logo/playwright.svg"></code>
+  <code><img width="7%" title="Cypress" src="images/logo/Cypress.svg"></code>
+  <code><img width="7%" title="WebdriverIO" src="images/logo/Webdriverio.svg"></code>
   <code><img width="7%" title="Pytest" src="images/logo/pytest.png"></code>
   <code><img width="7%" title="Node.js" src="images/logo/nodejs.svg"></code>
   <code><img width="7%" title="PyCharm" src="images/logo/pycharm.png"></code>
