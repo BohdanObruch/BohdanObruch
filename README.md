@@ -7,9 +7,10 @@
 **About me**
 
 
-- 💼 more than 4 years of manual testing experience
-- 📋 did a course on test automation by QAGuru( Python + Selene)
+- 💼 more than 4 years of manual testing experience and 2 year of automation testing experience.
 - ⚡ further development in automation testing.
+- 🌱 I’m currently learning Python and JS language and automation in it.
+
 <br>
 
 
@@ -27,17 +28,23 @@
 
 ## 🌱 Currently learning
 
-- 📌 Python language and automation in it
+- 📌 Python and JS language and automation in it
 <br>
 
 ## 💼 Technical Skills
 
 <p  align="center">
   <code><img width="7%" title="Python" src="images/logo/python.svg"></code>
+  <code><img width="7%" title="Javascript" src="images/logo/javascript.svg"></code>
   <code><img width="7%" title="Selene" src="images/logo/selene.png"></code>
+  <code><img width="7%" title="Selenium" src="images/logo/selenium.svg"></code>
+  <code><img width="7%" title="Playwright" src="images/logo/playwright.svg"></code>
   <code><img width="7%" title="Pytest" src="images/logo/pytest.png"></code>
+  <code><img width="7%" title="Node.js" src="images/logo/nodejs.svg"></code>
   <code><img width="7%" title="PyCharm" src="images/logo/pycharm.png"></code>
+  <code><img width="7%" title="WebStorm" src="images/logo/webstorm.svg"></code>
   <code><img width="7%" title="Requests" src="images/logo/request.png"></code>
+  <code><img width="7%" title="Axios" src="images/logo/axios.svg"></code>
   <code><img width="7%" title="Appium" src="images/logo/appium.svg"></code>
   <code><img width="7%" title="Jenkins" src="images/logo/jenkins.png"></code>
   <code><img width="7%" title="Selenoid" src="images/logo/selenoid.png"></code>
